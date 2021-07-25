@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sbstudent/](https://www.linkedin.com/in/sbstudent/)
 
-- 💬 Ask me about **A suggestion or something else**
+- 💬 Ask me about **A project suggestion or something else**
 
 - 📫 How to reach me **simonbertrand.contact@gmail.com**
 
