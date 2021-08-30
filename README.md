@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simon-bertrand" alt="simon-bertrand" /></a> </p>
 
-- 🔭 I’m currently working on **Clusters-Features**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sbstudent/](https://www.linkedin.com/in/sbstudent/)
 
