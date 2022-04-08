@@ -9,6 +9,9 @@
 <p align="center">
 📫 How to reach me : simonbertrand.contact@gmail.com </p>
 
+<div align="center">Follow me on Twitter : twitter.com/SiMB_dev</div>
+
+
 <div align="center"><br /> <br />
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=simon-bertrand&show_icons=true&locale=en&layout=compact" alt="simon-bertrand" /></p>
 </div>
