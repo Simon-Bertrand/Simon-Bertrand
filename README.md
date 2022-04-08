@@ -9,7 +9,7 @@
 <p align="center">
 📫 How to reach me : simonbertrand.contact@gmail.com </p>
 
-<div align="center">Follow me on Twitter : twitter.com/SiMB_dev</div>
+<div align="center">Follow me on Twitter : <a href="https://twitter.com/SiMB_dev" title="Join me on Twitter">twitter.com/SiMB_dev</a></div>
 
 
 <div align="center"><br /> <br />
