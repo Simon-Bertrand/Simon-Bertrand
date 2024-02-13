@@ -12,10 +12,10 @@
 <p align="center">Research Engineer in Signals, AI and Computer Vision. Backend developper</p>
 <p align="center">Software Engineering (Web, Application) and Data Science (ML, DL, CV) with Python, Rust, C#, SQL and ReactJS.</p>
 <p align="center">
-  📫  <a href="mailto:simonbertrand.contact@gmail.com" alt="Email" >simonbertrand.contact@gmail.com</a>
+ <tr><td>📫  <a href="mailto:simonbertrand.contact@gmail.com" alt="Email" >simonbertrand.contact@gmail.com</a></td></tr>
+ <tr><td>🌎 <a href="https://simon-bertrand.github.io/" alt="Website BERTRAND Simon">simon-bertrand.github.io</a></td></tr>
+ <tr><td>🐦 <a href="https://twitter.com/SiMB_dev" title="Join me on Twitter">twitter.com/SiMB_dev</a></td></tr>
 </p>
-<p align="center">🌎 <a href="https://simon-bertrand.github.io/" alt="Website BERTRAND Simon">simon-bertrand.github.io</p>
-<div align="center">🐦 <a href="https://twitter.com/SiMB_dev" title="Join me on Twitter">twitter.com/SiMB_dev</a></div>
 <hr />
 <h3>💻 My favorite tools and technologies</h3>
 
