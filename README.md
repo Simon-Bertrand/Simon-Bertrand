@@ -183,10 +183,6 @@
         <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="65" height="65" alt="Node.js" />
       <br>Node.js
   </td>
-  <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sequelize" alt="icon" width="65" height="65" alt="Sequelize" />
-      <br>Sequelize
-  </td>
    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=prisma" alt="icon" width="65" height="65" alt="Prisma" />
       <br>Prisma
