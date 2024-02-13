@@ -183,6 +183,14 @@
         <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="65" height="65" alt="Node.js" />
       <br>Node.js
   </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sequelize" alt="icon" width="65" height="65" alt="Sequelize" />
+      <br>Sequelize
+  </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=prisma" alt="icon" width="65" height="65" alt="Prisma" />
+      <br>Prisma
+  </td>
   <td align="center" width="96"> 
         <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png" width="65" height="65" alt="Google Earth Engine" />
       <br>GEE
