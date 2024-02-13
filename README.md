@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=simon-bertrand&label=Profile%20views&color=0e75b6&style=flat" alt="simon-bertrand" /> </p>
 
 <h1 align="center">
-  Simon B.
+  Simon Bertrand
 </h1>
 
 <h2 align="center">a French engineer, currently Ph.D student with a passion for mathematics and computer science.</h2>
@@ -12,7 +12,7 @@
 <p align="center">Research Engineer in Signals, AI and Computer Vision. Backend developper</p>
 <p align="center">Software Engineering (Web, Application) and Data Science (ML, DL, CV) with Python, Rust, C#, SQL and ReactJS.</p>
 <p align="center">
-  📫 <a href="mailto:simonbertrand.contact@gmail.com" alt="Email" >simonbertrand.contact@gmail.com</a>
+  📫  <a href="mailto:simonbertrand.contact@gmail.com" alt="Email" >simonbertrand.contact@gmail.com</a>
 </p>
 <p align="center">🌎 <a href="https://simon-bertrand.github.io/" alt="Website BERTRAND Simon">Website</p>
 <hr />
@@ -189,7 +189,7 @@
   </tr>
 </table>
 <br><br>
-
+<hr />
 
 
 <div align="center">Follow me on Twitter : <a href="https://twitter.com/SiMB_dev" title="Join me on Twitter">twitter.com/SiMB_dev</a></div>
