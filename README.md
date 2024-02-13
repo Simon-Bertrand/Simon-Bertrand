@@ -14,7 +14,8 @@
 <p align="center">
   📫  <a href="mailto:simonbertrand.contact@gmail.com" alt="Email" >simonbertrand.contact@gmail.com</a>
 </p>
-<p align="center">🌎 <a href="https://simon-bertrand.github.io/" alt="Website BERTRAND Simon">Website</p>
+<p align="center">🌎 <a href="https://simon-bertrand.github.io/" alt="Website BERTRAND Simon">simon-bertrand.github.io</p>
+<div align="center">🐦 <a href="https://twitter.com/SiMB_dev" title="Join me on Twitter">twitter.com/SiMB_dev</a></div>
 <hr />
 <h3>💻 My favorite tools and technologies</h3>
 
@@ -192,11 +193,6 @@
 <hr />
 
 
-<div align="center">Follow me on Twitter : <a href="https://twitter.com/SiMB_dev" title="Join me on Twitter">twitter.com/SiMB_dev</a></div>
 
-
-<div align="center"><br /> <br />
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=simon-bertrand&show_icons=true&locale=en&layout=compact" alt="simon-bertrand" /></p>
-</div>
 
 
