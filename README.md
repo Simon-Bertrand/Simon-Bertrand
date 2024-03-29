@@ -23,19 +23,19 @@ I wrote few PyTorch module that are publicly shared.<br />
 A non-exhaustive list :
 <table align="center">
  <tr>
-  <td>📫 Histogram of Oriented Gradients</td>
+  <td>Histogram of Oriented Gradients</td>
   <td> <a href="https://github.com/Simon-Bertrand/HOG-PyTorch" alt="HOG" >Repository</a></td>
  </tr>
   <tr>
-  <td>📫 Mutual Information</td>
+  <td>Mutual Information</td>
   <td><a href="https://github.com/Simon-Bertrand/MutualInformation-PyTorch" alt="MI" >Repository</a></td>
  </tr>
   <tr>
-  <td>📫 Phase Congruency</td>
+  <td>Phase Congruency</td>
   <td><a href="https://github.com/Simon-Bertrand/2DPhaseCongruency-PyTorch" alt="PC" >Repository</a></td>
  </tr>
    <tr>
-  <td>📫  Hilbert Transformations</td>
+  <td>Hilbert Transformations</td>
   <td><a href="2DHilbertTransformations-PyTorch" alt="HT" >Repository</a></td>
  </tr>
  
