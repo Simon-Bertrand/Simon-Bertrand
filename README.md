@@ -17,6 +17,32 @@
  <tr><td>🐦 <a href="https://twitter.com/SiMB_dev" title="Join me on Twitter">twitter.com/SiMB_dev</a></td></tr>
 </table>
 <hr />
+I write all kinds of software, from human interfaces to server programs and also web development. 
+I have a preference for tensors programmation (AI) which merge maths and computer science.
+I wrote few PyTorch module that are publicly shared.<br />
+A non-exhaustive list :
+<table align="center">
+ <tr>
+  <td>📫 Histogram of Oriented Gradients</td>
+  <td> <a href="https://github.com/Simon-Bertrand/HOG-PyTorch" alt="HOG" >Repository</a></td>
+ </tr>
+  <tr>
+  <td>📫 Mutual Information</td>
+  <td><a href="https://github.com/Simon-Bertrand/MutualInformation-PyTorch" alt="MI" >Repository</a></td>
+ </tr>
+  <tr>
+  <td>📫 Phase Congruency</td>
+  <td><a href="https://github.com/Simon-Bertrand/2DPhaseCongruency-PyTorch" alt="PC" >Repository</a></td>
+ </tr>
+   <tr>
+  <td>📫  Hilbert Transformations</td>
+  <td><a href="2DHilbertTransformations-PyTorch" alt="HT" >Repository</a></td>
+ </tr>
+ 
+ 
+</table>
+
+<hr />
 <h3>💻 My favorite tools and technologies</h3>
 
 ##### Languages, frameworks
