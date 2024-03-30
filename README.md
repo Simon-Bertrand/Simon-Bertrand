@@ -22,6 +22,10 @@ I have a preference for tensors programmation (AI) which merge maths and compute
 I wrote few PyTorch module that are publicly shared.<br />
 A non-exhaustive list :
 <table align="center">
+  <tr>
+  <td>Fast Normalized Cross-Correlation</td>
+  <td> <a href="https://github.com/Simon-Bertrand/FastCrossCorr-PyTorch" alt="HOG" >Repository</a></td>
+ </tr>
  <tr>
   <td>Histogram of Oriented Gradients</td>
   <td> <a href="https://github.com/Simon-Bertrand/HOG-PyTorch" alt="HOG" >Repository</a></td>
