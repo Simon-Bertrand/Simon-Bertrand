@@ -44,7 +44,7 @@ A non-exhaustive list :
  </tr>
    <tr>
   <td>Hilbert Transformations</td>
-  <td><a href="2DHilbertTransformations-PyTorch" alt="HT" >Repository</a></td>
+  <td><a href="https://github.com/Simon-Bertrand/2DHilbertTransformations-PyTorch" alt="HT" >Repository</a></td>
  </tr>
  
  
