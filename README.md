@@ -23,7 +23,7 @@ I wrote few PyTorch module that are publicly shared.<br />
 A non-exhaustive list :
 <table align="center">
    <tr>
-  <td>Fast Cross-MI Functionn (CMIF)</td>
+  <td>Fast Cross-MI Function (CMIF)</td>
   <td> <a href="https://github.com/Simon-Bertrand/FastCMIF-PyTorch" alt="CMIF" >Repository</a></td>
  </tr>
   <tr>
