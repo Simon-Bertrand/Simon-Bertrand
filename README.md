@@ -46,6 +46,14 @@ A non-exhaustive list :
   <td>Hilbert Transformations</td>
   <td><a href="https://github.com/Simon-Bertrand/2DHilbertTransformations-PyTorch" alt="HT" >Repository</a></td>
  </tr>
+    <tr>
+  <td>LogPolar Transformations</td>
+  <td><a href="https://github.com/Simon-Bertrand/LogPolar-PyTorch" alt="LogPolar PyTorch" >Repository</a></td>
+ </tr>
+    <tr>
+  <td>Fourier Mellin Rigid registration</td>
+  <td><a href="https://github.com/Simon-Bertrand/FourierMellin-PyTorch" alt="Fourier Mellin Rigid Transformation" >Repository</a></td>
+ </tr>
  
  
 </table>
