@@ -18,7 +18,7 @@
 </table>
 <hr />
 I write all kinds of software, from human interfaces to server programs and also web development. 
-I have a preference for tensors programmation (AI) which merge maths and computer science.
+I have a preference for tensors programmation (AI) which merges maths and development.
 I wrote few PyTorch modules that are publicly shared.<br />
 A non-exhaustive list :
 <table align="center">
