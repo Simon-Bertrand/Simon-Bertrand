@@ -7,7 +7,7 @@
   Simon Bertrand
 </h1>
 
-<h2 align="center">a French engineer, currently Ph.D student with a passion for mathematics and computer science.</h2>
+<h2 align="center">a French Ph.D engineer with a passion for mathematics and computer science.</h2>
 
 <p align="center">Research Engineer in Signals, AI and Computer Vision. Backend developper</p>
 <p align="center">Software Engineering (Web, Application) and Data Science (ML, DL, CV) with Python, Rust, C#, SQL and ReactJS.</p>
